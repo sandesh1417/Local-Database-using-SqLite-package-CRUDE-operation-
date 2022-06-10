@@ -1,16 +1,11 @@
-# state_provider
+# Local DataBase App using SqLite package ( CRUD operation ).
 
-A new Flutter project.
+In this, SqLite package is used to store data locally. CRUD operation is performed using this package.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src = "https://github.com/sandesh1417/Local-Database-using-SqLite-package-CRUDE-operation-/blob/main/Screenshots/Screenshot_1653129021.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-  Package :: [SqLite package](https://pub.dev/packages/sqflite)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
